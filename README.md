@@ -7,4 +7,4 @@ How to run:<br>
 <code>node dist/index.js</code>
 <br>
 Licence:
-<br>This project is licences under a MIT licence(see [LICENCE.txt](LICENCE))
+<br>This project is licences under a MIT licence(see LICENCE)
